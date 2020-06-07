@@ -1,0 +1,23 @@
+{
+  "name": "Tuition-center",
+  "version": "1.0.0",
+  "description": "Tuition-Center Onlne Platform Protoype UI",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/main.css -o dist/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmadHJabu/Tuition-center.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmadHJabu/Tuition-center/issues"
+  },
+  "homepage": "https://github.com/AhmadHJabu/Tuition-center#readme",
+  "dependencies": {
+    "tailwindcss": "^1.4.6"
+  }
+}
